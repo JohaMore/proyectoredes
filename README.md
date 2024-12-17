@@ -14,3 +14,12 @@ Instala los requerimientos usando:
 
 ```bash
 pip install tensorflow scikit-learn matplotlib pandas
+
+📊 Resultados
+Matriz de confusión
+Reporte de clasificación
+Gráficas de pérdida y precisión
+Curvas ROC por clase
+
+🧑‍💻 Autor
+Johanna Moreno Castellanos
